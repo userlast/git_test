@@ -6,5 +6,7 @@ public class Test1 {
         System.out.println("这是我的远程分支修改1。");
         System.out.println("testbranch1代码增加。");
         System.out.println("test1-->test1");
+        System.out.println("test2-->test1");
+
     }
 }
