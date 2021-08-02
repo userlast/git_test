@@ -4,5 +4,14 @@ public class Test1 {
         System.out.println("Hello World");
         System.out.println("这是我的本地修改。");
         System.out.println("这是我的远程分支修改1。");
+        System.out.println("testbranch1代码增加。");
+        System.out.println("test1-->test1");
+        System.out.println("test2-->test1");
+        System.out.println("test3-->test1");
+        System.out.println("test3-->test1");
+        System.out.println("test3-->test1");
+        System.out.println("test3-->test1");
+        System.out.println("test3-->master");
+        System.out.println("testbranch2-->master");
     }
 }
