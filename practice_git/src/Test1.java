@@ -14,5 +14,6 @@ public class Test1 {
         System.out.println("test3-->master");
         System.out.println("testbranch2-->master");
         System.out.println("master->master");
+        System.out.println("testbranch1->master");
     }
 }
